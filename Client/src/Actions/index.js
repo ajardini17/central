@@ -1,9 +1,9 @@
 import axios from 'axios';
 
-import {TEST_API_KEY} from '../../config';
+// import {TEST_API_KEY} from '../../config';
 
-const API_KEY = TEST_API_KEY;
-const ROOT_URL = `http://reduxblog.herokuapp.com/api`;
+// const API_KEY = TEST_API_KEY;
+// const ROOT_URL = `http://reduxblog.herokuapp.com/api`;
 
 export const FETCH_PROJECTS = 'FETCH_PROJECTS';
 export const CREATE_PROJECT = 'CREATE_PROJECT';

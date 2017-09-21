@@ -1,6 +1,6 @@
 // import fs from 'fs';
 import auth0 from 'auth0-js';
-import ClientID from '../../config.js'
+import ClientID from '../../../config.js'
 import history from '../history';
 
 export default class Auth {

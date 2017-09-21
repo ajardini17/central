@@ -1,4 +1,4 @@
-const db = require('./dbconnection.js');
+const db = require('./dbConnection.js');
 
 
 
